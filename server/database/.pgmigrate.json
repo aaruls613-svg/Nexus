@@ -1,0 +1,8 @@
+{
+  "database-url": "postgres://orbital_user:orbital_password@localhost:5432/orbital_nexus",
+  "migrations-dir": "migrations",
+  "migrations-table": "pgmigrations",
+  "schema": "public",
+  "check-order": true,
+  "verbose": true
+}
